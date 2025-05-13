@@ -40,7 +40,7 @@ async def main():
         num_attempts = 50
 
     try:
-        sleep_delay = float(input("How long to wait in each attempt in seconds? {default: 3} "))
+        sleep_delay = float(input("How long to wait per attempt in seconds? {default: 3} "))
     except ValueError:
         print("Using default value.")
         sleep_delay = 3
