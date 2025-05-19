@@ -1,5 +1,5 @@
-# vocaroo-sniffer
-Vocaroo Sniffer is a singular Python script which looks for valid Vocaroo.com links (compatible with its legacy URL system).
+# vocaroo-scraper
+Vocaroo Scraper is a singular Python script which looks for valid Vocaroo.com links (compatible with its legacy URL system).
 
 **You must be connected to the internet in order to run this script.**
 
